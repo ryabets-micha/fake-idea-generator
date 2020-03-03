@@ -1,0 +1,23 @@
+{
+  "name": "data-loader",
+  "version": "1.0.0",
+  "description": "Load fake data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryabets-micha/fake-idea-generator.git"
+  },
+  "author": "Riabets Mykhailo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryabets-micha/fake-idea-generator/issues"
+  },
+  "homepage": "https://github.com/ryabets-micha/fake-idea-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "faker": "^4.1.0"
+  }
+}
